@@ -60,5 +60,5 @@ The expansion connector for GRC modules is a 2×25, 2.54mm spacing female header
 ### Design Information
 - schematic
 - Gerber photoplots
-
+- Bill of Materials
 
