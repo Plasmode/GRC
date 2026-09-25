@@ -1,6 +1,8 @@
 # GRC Backplane
 GRC is a modular computer system consists of an expandable backplane, 100mm X 100mm, with six female 2×25 connectors and a dedicated slot for disk-on-module. Each board is 100mm X 40mm with a corresponding 2×25 male connector that plugs into the backplane. Table below shows the signal assignments of the backplane connectors.
 
+![backplane](GCMB_rev1.png)
+
 ### Generic Retro Computer Bus Definition
 The expansion connector for GRC modules is a 2×25, 2.54mm spacing female header on the backplane and a corresponding right-angle male connector on each module. The following is the pin assignment of the GRC expansion connector.
 
