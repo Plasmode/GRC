@@ -35,25 +35,30 @@ The expansion connector for GRC modules is a 2×25, 2.54mm spacing female header
 |27	|Bank2	|Memory bank select|
 |28	|CPU Ctrl1	|CPU-specific control line|
 |29	|Bank1	|Memory bank select|
-30	nIRQ	Interrupt
-31	Bank0	Memory bank select, LSB
-32	nRESET	System reset, active low
-33	A15	Address line, MSB
-34	CLK	System clock
-35	A14	Address line
-36	A0	Address line, LSB
-37	A13	Address line
-38	A1	Address line
-39	A12	Address line
-40	A2	Address line
-41	A11	Address line
-42	A3	Address line
-43	A10	Address line
-44	A4	Address line
-45	A9	Address line
-46	A5	Address line
-47	A8	Address line
-48	A6	Address line
-49	GND	Ground
-50	A7	Address line
+|30	|nIRQ	|Interrupt|
+|31	|Bank0	|Memory bank select, LSB|
+|32	|nRESET	|System reset, active low|
+|33	|A15	|Address line, MSB|
+|34	|CLK	|System clock|
+|35	|A14	|Address line|
+|36	|A0	|Address line, LSB|
+|37	|A13	|Address line|
+|38	|A1	|Address line|
+|39	|A12	|Address line|
+|40	|A2	|Address line|
+|41	|A11	|Address line|
+|42	|A3	|Address line|
+|43	|A10	|Address line|
+|44	|A4	|Address line|
+|45	|A9	|Address line|
+|46	|A5	|Address line|
+|47	|A8	|Address line|
+|48	|A6	|Address line|
+|49	|GND	|Ground|
+|50	|A7	|Address line|
+
+### Design Information
+- schematic
+- Gerber photoplots
+
 
