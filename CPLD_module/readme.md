@@ -4,7 +4,7 @@ CPLD board is the heart of the GRC. A minimum PRCC is consists of a CPLD board a
 ![cpld](cpld_bd_rev0_annotated.jpg)
 
 ### Design Information
-- Schematic
+- [Schematic](GCCPLD_rev0_scm.pdf)
 - Gerber photoplots
 - Bill of Materials
 
